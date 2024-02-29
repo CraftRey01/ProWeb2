@@ -1,0 +1,102 @@
+#cabeza {
+    width: 600px;
+    height: 600px;
+    background-color: bisque;
+    margin: auto;
+}
+
+#ojo1 {
+    margin-top: 100px;
+    margin-left: 70px;
+    width: 170px;
+    height: 150px;
+    background-color: white;
+    float: left;
+}
+
+#ojo2 {
+    margin-top: 100px;
+    margin-right: 70px;
+    width: 170px;
+    height: 150px;
+    background-color: white;
+    float: right;
+}
+
+#cejotas {
+    margin-top: 20%;
+    width: 600px;
+    height: 100px;
+    background-color: black;
+}
+
+#nariz {
+    margin-top: 20%;
+    margin-left: 240px;
+    width: 120px;
+    height: 120px;
+    background-color: black;
+}
+
+#boca {
+    margin-top: 70px;
+    margin-left: 150px;
+    width: 300px;
+    height: 120px;
+    background-color: maroon;
+}
+
+#cabeza2 {
+    width: 600px;
+    height: 600px;
+    border-radius: 30%;
+    background-color: bisque;
+    margin: auto;
+}
+
+#ojo3 {
+    margin-top: 100px;
+    margin-left: 70px;
+    border-radius: 100%;
+    width: 170px;
+    height: 150px;
+    background-color: white;
+    float: left;
+}
+
+#ojo4 {
+    margin-top: 100px;
+    margin-right: 70px;
+    border-radius: 100%;
+    width: 170px;
+    height: 150px;
+    background-color: white;
+    float: right;
+}
+
+#cejotas2 {
+    margin-top: 20%;
+    border-radius: 200%;
+    width: 600px;
+    height: 100px;
+    background-color: black;
+}
+
+#nariz2 {
+    margin-top: 20%;
+    margin-left: 240px;
+    border-radius: 100%;
+    width: 120px;
+    height: 120px;
+    background-color: black;
+}
+
+#boca2 {
+    margin-top: 70px;
+    margin-left: 150px;
+    border-radius: 30%;
+    width: 300px;
+    height: 120px;
+    background-color: maroon;
+}
+
